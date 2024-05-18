@@ -1,0 +1,47 @@
+.color-title{
+    font-weight: normal;
+}
+
+img[value]{
+    width: 200px;
+    height: 200px;
+}
+
+#red{
+    color:red;
+}
+
+#blue{
+    color:blue;
+}
+
+#orange{
+    color:orange;
+}
+
+#green{
+    color:green;
+}
+
+#yellow{
+    color:yellow;
+}
+
+h1[value="1"]{
+    text-align: center;
+    background: #FFF9D0;
+    color:#AF8F6F;
+}
+
+h2[value="1"]{
+    text-align: center;
+    background: #FFF9D0;
+    color:#40A578;
+}
+
+*{
+    background: antiquewhite;
+}
+
+
+
